@@ -1,0 +1,10 @@
+# Arquivo de dados gerado ao rodar (estoque/senhas) - comeca do zero a cada maquina
+dados.json
+
+# Binarios compilados
+*.exe
+remdioschamados
+
+# Sistema
+.DS_Store
+Thumbs.db
